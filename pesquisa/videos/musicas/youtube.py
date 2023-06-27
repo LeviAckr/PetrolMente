@@ -27,7 +27,7 @@ def abrir_video(url):
     if escolha == '1':
          webbrowser.open(url)
     elif escolha == '0':
-         sys.exit()
+         sys.exit("Sistema abatido --🔫")
     else:
         print("Voçe inseriu um parametro invalido")
 termo_pesquisa = input("Digite o que deseja pesquisar no youtube: ")
