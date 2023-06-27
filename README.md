@@ -4,7 +4,7 @@
 
  - `PetrolMente is a system (back-end) that brings a relationship between the terminal and your web service. In it, you can do several searches such as on youtube, books, websites or on the wiki`
  
- - least version repository `1.1` 
+ - least version repository `2.3` 
  - recommended version `1.1`
 
 
